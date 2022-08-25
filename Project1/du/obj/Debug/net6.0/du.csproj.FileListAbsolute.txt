@@ -1,0 +1,15 @@
+D:\RIT\Summer 2022\CSCI 251\Project1\du\bin\Debug\net6.0\du.exe
+D:\RIT\Summer 2022\CSCI 251\Project1\du\bin\Debug\net6.0\du.deps.json
+D:\RIT\Summer 2022\CSCI 251\Project1\du\bin\Debug\net6.0\du.runtimeconfig.json
+D:\RIT\Summer 2022\CSCI 251\Project1\du\bin\Debug\net6.0\du.dll
+D:\RIT\Summer 2022\CSCI 251\Project1\du\bin\Debug\net6.0\du.pdb
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.csproj.AssemblyReference.cache
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.AssemblyInfoInputs.cache
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.AssemblyInfo.cs
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.csproj.CoreCompileInputs.cache
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.dll
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\refint\du.dll
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.pdb
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\du.genruntimeconfig.cache
+D:\RIT\Summer 2022\CSCI 251\Project1\du\obj\Debug\net6.0\ref\du.dll
